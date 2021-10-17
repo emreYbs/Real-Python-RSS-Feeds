@@ -12,3 +12,15 @@
 
 
 ![image](https://user-images.githubusercontent.com/59505246/137633988-cae6d5d2-cda9-4103-88af-a9aae6fa3b89.png)
+
+# Notes:
+
+*Modules you'll need, in case you don't have them installed:*
+
+-BeautifulSoup 
+-requests
+-lxml
+-cowsay 
+
+### Below there is an example output of Real-Python-RSS-Feeds.py when paired with a tee command, so you can save the links and view later:
+                       python3 'RSS Feed reader.py' | tee realpythonRssFeeds.txt
