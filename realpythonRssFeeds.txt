@@ -1,0 +1,315 @@
+
+			Welcome to Real Python Rss Feeds Scraper
+
+
+
+	Real Python is a great blog/website for learning Python. This Python script will scrape the RSS Feeds for you...
+
+
+
+	Title: The Real Python Podcast – Episode #82: Welcoming the CPython Developer in Residence
+
+SUMMARY: Earlier this year, the Python Software Foundation announced the creation of the Developer in Residence role. The first Visionary Sponsors of the PSF have provided funding for this new role for one year. What development responsibilities does this job address? This week on the show, we talk to previous guest Łukasz Langa about becoming the first CPython Developer in Residence.
+
+	Link: https://realpython.com/podcasts/rpp/82/
+
+
+							..................................................
+
+
+	Title: Python's property(): Add Managed Attributes to Your Classes
+
+SUMMARY: In this step-by-step tutorial, you'll learn how to create managed attributes, also known as properties, using Python's property() in your custom classes.
+
+	Link: https://realpython.com/python-property/
+
+
+							..................................................
+
+
+	Title: Using Pygame to Build an Asteroids Game in Python
+
+SUMMARY: In this course, you'll build a clone of the Asteroids game in Python using Pygame. Step by step, you'll add images, input handling, game logic, sounds, and text to your program.
+
+	Link: https://realpython.com/courses/asteroids-game-python-pygame/
+
+
+							..................................................
+
+
+	Title: Representing Rational Numbers With Python Fractions
+
+SUMMARY: In this tutorial, you'll learn about the Fraction data type in Python, which can represent rational numbers precisely without the rounding errors in binary arithmetic. You'll find that this is especially important in financial and other high-precision applications.
+
+	Link: https://realpython.com/python-fractions/
+
+
+							..................................................
+
+
+	Title: The Real Python Podcast – Episode #81: Exploring the New Features of Python 3.10
+
+SUMMARY: Python 3.10 is here! This week on the show, two former guests and Real Python authors return to talk about the new version. Geir Arne Hjelle's article was posted to the site Monday, and it's titled "Python 3.10: Cool New Features for You to Try". Christopher Trudeau's video course came out on Tuesday, and it covers the topics from the article with multiple visual examples of Python 3.10 code.
+
+	Link: https://realpython.com/podcasts/rpp/81/
+
+
+							..................................................
+
+
+	Title: Python's sum(): The Pythonic Way to Sum Values
+
+SUMMARY: In this step-by-step tutorial, you'll learn how to use Python's sum() function to add numeric values together. You also learn how to concatenate sequences, such as lists and tuples, using sum().
+
+	Link: https://realpython.com/python-sum-function/
+
+
+							..................................................
+
+
+	Title: Cool New Features in Python 3.10
+
+SUMMARY: In this course, you'll explore some of the coolest and most useful features in Python 3.10. You'll appreciate more user-friendly error messages, learn about how you can handle complicated data structures with structural pattern matching, and explore new enhancements to Python's type system.
+
+	Link: https://realpython.com/courses/cool-new-features-python-310/
+
+
+							..................................................
+
+
+	Title: Python 3.10: Cool New Features for You to Try
+
+SUMMARY: In this tutorial, you'll explore some of the coolest and most useful features in Python 3.10. You'll appreciate more user-friendly error messages, learn about how you can handle complicated data structures with structural pattern matching, and explore new enhancements to Python's type system.
+
+	Link: https://realpython.com/python310-new-features/
+
+
+							..................................................
+
+
+	Title: The Real Python Podcast – Episode #80: Make Your Python App Interactive With a Text User Interface (TUI)
+
+SUMMARY: Have you wanted to create a Python application that goes further than a command-line interface? You would like it to have a friendly interface but don't want to make a GUI (Graphical User Interface) or web application. Maybe a TUI (Text User Interface)would be a perfect fit for the project. This week on the show, we have Will McGugan to talk about his projects Textual and Rich.
+
+	Link: https://realpython.com/podcasts/rpp/80/
+
+
+							..................................................
+
+
+	Title: Hosting a Django Project on Heroku
+
+SUMMARY: In this step-by-step project, you'll learn about hosting Django projects in the cloud using Heroku, which is the favorite cloud platform provider of many startups and developers.
+
+	Link: https://realpython.com/django-hosting-on-heroku/
+
+
+							..................................................
+
+
+	Title: Rock, Paper, Scissors With Python: A Command Line Game
+
+SUMMARY: In this course, you'll learn to program rock paper scissors in Python from scratch. You'll learn how to take in user input, make the computer choose a random action, determine a winner, and split your code into functions.
+
+	Link: https://realpython.com/courses/python-rock-paper-scissors-game/
+
+
+							..................................................
+
+
+	Title: Reverse Strings in Python: reversed(), Slicing, and More
+
+SUMMARY: In this step-by-step tutorial, you'll learn how to reverse strings in Python by using available tools such as reversed() and slicing operations. You'll also learn about a few useful ways to build reversed strings by hand.
+
+	Link: https://realpython.com/reverse-string-python/
+
+
+							..................................................
+
+
+	Title: The Real Python Podcast – Episode #79: Measuring Your Python Learning Progress
+
+SUMMARY: Where are you along the path of learning Python? Do you feel like you're making progress? What are ways you can put the learning path into a more precise focus? This week on the show, we talk with previous guest Martin Breuss about his recent article "How Long Does It Take to Learn Python?"
+
+	Link: https://realpython.com/podcasts/rpp/79/
+
+
+							..................................................
+
+
+	Title: The Django Template Language: Tags and Filters
+
+SUMMARY: Django templates use their own mini-language that's inspired by Python. This tutorial covers Django template tags and filters, explaining how to compile and use templates. It covers conditional blocks, looping, and inheritance in tags as well as filters for strings and filters for lists.
+
+	Link: https://realpython.com/django-templates-tags-filters/
+
+
+							..................................................
+
+
+	Title: Pass by Reference in Python: Best Practices
+
+SUMMARY: In this course, you'll explore the concept of passing by reference and learn how it relates to Python's own system for handling function arguments. You'll look at several use cases for passing by reference and learn some best practices for implementing pass-by-reference constructs in Python.
+
+	Link: https://realpython.com/courses/pass-by-reference-python-best-practices/
+
+
+							..................................................
+
+
+	Title: Using the "and" Boolean Operator in Python
+
+SUMMARY: In this step-by-step tutorial, you'll learn how Python's "and" operator works and how to use it in your code. You'll get to know its special features and see what kind of programming problems you can solve by using "and" in Python.
+
+	Link: https://realpython.com/python-and-operator/
+
+
+							..................................................
+
+
+	Title: The Real Python Podcast – Episode #78: Learning Python Through Illustrated Stories
+
+SUMMARY: Are you a visual learner? Does it help to have programming concepts shared with concrete examples and images? Would you like to see if your child might be interested in programming? This week on the show, we talk with author Shari Eskenas about her books, "A Day in Code - Python: Learn to Code in Python Through an Illustrated Story" and "Learn Python Through Nursery Rhymes & Fairy Tales."
+
+	Link: https://realpython.com/podcasts/rpp/78/
+
+
+							..................................................
+
+
+	Title: Build a Personal Diary With Django and Python
+
+SUMMARY: In this beginner-friendly tutorial, you'll build a personal diary in Django. You'll use the strengths of the Django web framework and learn the basics of web apps.
+
+	Link: https://realpython.com/django-diary-project-python/
+
+
+							..................................................
+
+
+	Title: Using Data Classes in Python
+
+SUMMARY: Data classes are one of the new features introduced in Python 3.7. When using data classes, you don't have to write boilerplate code to get proper initialization, representation, and comparisons for your objects.
+
+	Link: https://realpython.com/courses/python-data-classes/
+
+
+							..................................................
+
+
+	Title: Python News: What's New From August 2021?
+
+SUMMARY: August 2021 was an eventful month in the world of Python. In this article, you'll get up to speed on everything that happened in the past month, including three new Python releases.
+
+	Link: https://realpython.com/python-news-august-2021/
+
+
+							..................................................
+
+
+	Title: The Real Python Podcast – Episode #77: Advantages of Completing Small Python Projects
+
+SUMMARY: Are you a beginner or intermediate Python programmer who has made it through some of the fundamentals? Have you tried to tackle a big project but got stuck and frustrated? Completing some small projects might be the answer. This week on the show, we have author Al Sweigart and talk about his new book, "The Big Book of Small Python Projects."
+
+	Link: https://realpython.com/podcasts/rpp/77/
+
+
+							..................................................
+
+
+	Title: Graph Your Data With Python and ggplot
+
+SUMMARY: In this course, you'll learn how to use ggplot in Python to build data visualizations with plotnine. You'll discover what a grammar of graphics is and how it can help you create plots in a very concise and consistent way.
+
+	Link: https://realpython.com/courses/graph-data-with-python-and-ggplot/
+
+
+							..................................................
+
+
+	Title: The Real Python Podcast – Episode #76: Harnessing Python's math Module and Exposing Practical Pandas Functions
+
+SUMMARY: How well do you know Python's math module? Maybe you've used a few of the constants or arithmetic functions. You may be surprised by the amount of functionality hiding within this built-in library, and perhaps you don't need to reach for an additional outside library. This week on the show, David Amos is back, and he's brought another batch of PyCoder's Weekly articles and projects.
+
+	Link: https://realpython.com/podcasts/rpp/76/
+
+
+							..................................................
+
+
+	Title: Splitting Datasets With scikit-learn and train_test_split()
+
+SUMMARY: In this course, you'll learn why it's important to split your dataset in supervised machine learning and how to do that with train_test_split() from scikit-learn.
+
+	Link: https://realpython.com/courses/splitting-datasets-scikit-learn-train-test-split/
+
+
+							..................................................
+
+
+	Title: The Real Python Podcast – Episode #75: Building With CircuitPython & Constraints of Python for Microcontrollers
+
+SUMMARY: Can you make a version of Python that fits within the memory constraints of a microcontroller and have it still feel like Python? That is the intention behind CircuitPython. This week on the show, we have Scott Shawcroft, who is the project lead for CircuitPython.
+
+	Link: https://realpython.com/podcasts/rpp/75/
+
+
+							..................................................
+
+
+	Title: Exploring the Python math Module
+
+SUMMARY: In this step-by-step course, you’ll learn all about Python’s math module for higher-level mathematical functions. Whether you’re working on a scientific project, a financial application, or any other type of programming endeavor, you just can’t escape the need for math!
+
+	Link: https://realpython.com/courses/exploring-python-math-module/
+
+
+							..................................................
+
+
+	Title: The Real Python Podcast – Episode #74: Python's Assignment Expressions and Fixing a Botched Release to PyPI
+
+SUMMARY: Have you started to use Python's assignment expression in your code? Maybe you have heard them called the walrus operator. Now that the controversy over the introduction in Python 3.8 has settled down, how can you use assignment expressions effectively in your code? This week on the show, David Amos is back, and he's brought another batch of PyCoder's Weekly articles and projects.
+
+	Link: https://realpython.com/podcasts/rpp/74/
+
+
+							..................................................
+
+
+	Title: Reading and Writing Files With Pandas
+
+SUMMARY: In this course, you'll learn about the Pandas IO tools API and how you can use it to read and write files. You'll use the Pandas read_csv() function to work with CSV files. You'll also cover similar methods for efficiently working with Excel, CSV, JSON, HTML, SQL, pickle, and big data files.
+
+	Link: https://realpython.com/courses/reading-writing-files-pandas/
+
+
+							..................................................
+
+
+	Title: The Real Python Podcast – Episode #73: Supporting Python Open Source Projects and Maintainers
+
+SUMMARY: How do you define open source software? What are the challenges an open source project and maintainers face? How do maintainers receive financial, legal, security, or other types of help? This week on the show, we have Josh Simmons from Tidelift and the Open Source Initiative to help answer these questions.
+
+	Link: https://realpython.com/podcasts/rpp/73/
+
+
+							..................................................
+
+
+	Title: Using the Python return Statement Effectively
+
+SUMMARY: In this step-by-step course, you'll learn how to use the Python return statement when writing functions. Additionally, you'll cover some good programming practices related to the use of return. With this knowledge, you'll be able to write readable, robust, and maintainable functions in Python.
+
+	Link: https://realpython.com/courses/effective-python-return-statement/
+
+
+							..................................................
+
+
+	I'will work on a better and more functional version of this project in which you can save the links, titles, summaries in an organized and colorful cli version soon.
+
+
+						EmreYbs wishes you a lovely day... 'Bye for now...' 
+
+
