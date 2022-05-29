@@ -1,4 +1,4 @@
-# Real-Python-RSS-Feeds
+# Real-Python 🐍 -RSS-Feeds
 **a simple Python CLI RSS  Tracker with BS4 -just for- Real Python Website RSS Feeds**
 
 ![image](https://user-images.githubusercontent.com/59505246/137634115-7484832d-a257-4ddc-acdc-9b62e98a0df5.png)
@@ -22,7 +22,7 @@
 -lxml
 -cowsay 
 
-### Below there is an example output of Real-Python-RSS-Feeds.py when paired with a tee command, so you can save the links and view later:
+### Below there is an example output of Real-Python-RSS-Feeds.py when paired with a tee command, so you can save the links and view later: ☑️
                        python3 'RSS Feed reader.py' | tee realpythonRssFeeds.txt
 
 -I've also prepared/uploaded a Jupyter Notebook Version for analysis in Jupyter here, in the same folder. 
