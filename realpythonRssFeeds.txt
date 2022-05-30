@@ -1,6 +1,7 @@
 
 			# Below there is an example output of Real-Python-RSS-Feeds.py when paired with a tee command so you can save the linkss and view later:
-                       python3 'RSS Feed reader.py' | tee realpythonRssFeeds.txt
+                      
+		      python3 'RSS Feed reader.py' | tee realpythonRssFeeds.txt
 		       
 			
 			Welcome to Real Python Rss Feeds Scraper
