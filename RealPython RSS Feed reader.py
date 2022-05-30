@@ -1,7 +1,8 @@
 #!/bin/bash
+#emreybs
 
 #Python RSS Feed Reader with BS4 -just for- Real Python Website RSS Feeds
-
+#You need to follow them, so useful indeed... The official website: https://realpython.com/
 
 from bs4 import BeautifulSoup #if you don't have it: pip install beautifulsoup4
 import requests
